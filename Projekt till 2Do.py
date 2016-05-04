@@ -1,3 +1,10 @@
+# coding: utf-8
+
+# Skript för att lägga till uppgifter under ett projekt i 2Do
+"""
+Fungerar med följande action i Drafts om man döper skriptet i Pythonista till ProjektTill2Do.py
+twodo://x-callback-url/add?task=[[title]]&type=1&forlist=Inkorg&x-success={{pythonista://ProjektTill2Do?action=run}}
+"""
 import webbrowser
 import urllib
 import console
