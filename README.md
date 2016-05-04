@@ -1,2 +1,2 @@
 # Pythonista-scripts
-Python skripts för iOS-appen Pythonista
+Python-skripts för iOS-appen Pythonista
