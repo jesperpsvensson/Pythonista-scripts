@@ -7,3 +7,5 @@ Python-skripts för iOS-appen Pythonista
 ## Prick - räkna prickarna
 
 **Prick** är ett litet spel för de yngre barnen som lär dig siffror. Räkna prickarna och välj motsvarande siffra.
+
+![Prick screenshot](image.png)
